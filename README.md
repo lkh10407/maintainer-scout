@@ -68,6 +68,16 @@ pytest
 ruff check .
 ```
 
+## AI-Assisted Maintenance
+
+This repository includes lightweight working rules for AI coding agents:
+
+- `AGENTS.md`: project workflow, safety rules, and verification expectations
+- `CLAUDE.md`: assistant-specific collaboration notes
+- `docs/current-state.md`: current implementation status
+- `docs/roadmap.md`: planned improvements
+- `docs/sprints/`: plans for larger changes
+
 ## Roadmap
 
 - Language-specific checks for Python, JavaScript, Rust, and Go
